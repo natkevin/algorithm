@@ -1,5 +1,24 @@
-# VARIABLE
-1. python
-2. golang
-3. lua
-4. java
+﻿VARIABLE
+1. Python
+- https://www.w3schools.com/python/python_variables.asp
+- https://www.w3schools.com/python/python_variables_names.asp
+- https://www.w3schools.com/python/python_variables_multiple.asp
+- https://www.w3schools.com/python/python_variables_output.asp
+- https://www.w3schools.com/python/python_variables_global.asp
+- https://www.w3schools.com/python/python_variables_exercises.asp
+RUN test variables:
+https://www.online-python.com/
+2. Golang
+- https://www.w3schools.com/go/go_variables.php
+- https://www.w3schools.com/go/go_variable_multi.php
+- https://www.w3schools.com/go/go_variable_naming_rules.php
+RUN test variables:
+https://go.dev/play/
+3. Lua
+- https://www.tutorialspoint.com/lua/lua_variables.htm
+RUN test variables:
+https://go.dev/play/
+4. Java
+- https://docs.scala-lang.org/scala3/book/taste-vars-data-types.html
+Run test variables:
+https://scastie.scala-lang.org/
